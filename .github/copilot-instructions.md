@@ -6,7 +6,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ## Repository Structure and Purpose
 
-This repository serves as Spencer Marcu's GitHub profile display. When users visit `github.com/spencermarcu-dev`, the README.md content automatically appears on the profile page.
+This repository serves as Spencer Marcu's GitHub profile display. When users visit `github.com/spencermarcu`, the README.md content automatically appears on the profile page.
 
 ### File Structure
 ```
@@ -20,7 +20,7 @@ This repository serves as Spencer Marcu's GitHub profile display. When users vis
 ## Working Effectively
 
 ### Initial Setup and Validation
-- Clone the repository: `git clone https://github.com/spencermarcu-dev/SpencerMarcu.git`
+- Clone the repository: `git clone https://github.com/spencermarcu/SpencerMarcu.git`
 - Navigate to directory: `cd SpencerMarcu`
 - Verify file structure: `ls -la`
 - Check file contents: `cat README.md && echo "---" && cat Spencer-Marcu`
@@ -75,7 +75,7 @@ After making content changes, ALWAYS validate:
 
 ### GitHub Profile Display Testing
 - **MANUAL VALIDATION REQUIREMENT**: After content changes, verify the profile displays correctly
-- The README.md content will appear automatically on `github.com/spencermarcu-dev`
+- The README.md content will appear automatically on `github.com/spencermarcu`
 - Check that Markdown renders properly (headers, lists, links, emphasis)
 - Ensure content is professional and represents the intended personal brand
 
