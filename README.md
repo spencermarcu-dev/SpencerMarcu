@@ -1,16 +1,16 @@
 # Spencer Marcu
 
-Welcome to my GitHub profile! 👋
+@SpencerMarcu
 
 ## About Me
 
-I'm Spencer Marcu, a passionate developer interested in creating innovative solutions and contributing to the open-source community.
+American singer-songwriter
 
 ## Skills & Technologies
 
-- Software Development
-- Open Source Contributions
-- Problem Solving
+- vocals
+- guitar 
+- production 
 
 ## Connect with Me
 
