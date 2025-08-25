@@ -14,6 +14,8 @@ I'm Spencer Marcu, a passionate developer interested in creating innovative solu
 
 ## Connect with Me
 
+Find me on GitHub: @SPENCERMARCU
+
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
 ---
