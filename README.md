@@ -4,13 +4,13 @@
 
 ## About Me
 
-American singer-songwriter
+Software Developer
 
 ## Skills & Technologies
 
-- vocals
-- guitar 
-- production 
+- Software Development
+- Open-source Contributions
+- Clean Code Practices 
 
 ## Connect with Me
 
