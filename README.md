@@ -1,36 +1,45 @@
-# Hi there, I'm Spencer Marcu! 👋
+# Spencer Marcu 🎸
 
 [![GitHub followers](https://img.shields.io/github/followers/spencermarcu-dev?label=Follow&style=social)](https://github.com/spencermarcu-dev)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=spencermarcu-dev&color=blue)](https://github.com/spencermarcu-dev)
 
-Welcome to my GitHub profile! I'm a passionate developer interested in creating innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm Spencer Marcu, a Rock n' Roll Singer, Songwriter, Producer, and Artist creating music that moves souls and builds connections.
 
-## 🚀 About Me
+## 🎵 About Me American singer-songwriter
 
-I'm Spencer Marcu, a dedicated software developer who believes in clean code, continuous learning, and building solutions that make a difference. I'm committed to high-quality software development and enjoy collaborating with the developer community.
+I'm Spencer Marcu, a passionate musician dedicated to creating authentic rock and roll music. I believe in the power of music to inspire, connect, and make a difference in people's lives. My work spans songwriting, production, and performance, always striving for artistic excellence and meaningful expression.
 
 ### Current Focus:
-- 🔭 Building high-quality software solutions
-- 🌱 Contributing to open-source projects  
-- 📚 Learning new technologies and frameworks
-- 🤝 Collaborating with the developer community
+- 🎵 Creating authentic rock and roll music
+- 🎤 Recording and producing new songs
+- 🎸 Performing live concerts and events
+- 🎼 Collaborating with fellow musicians and industry professionals
 
-## 🛠️ Skills & Technologies
+## 🎼 Music & Creative Skills
 
-### Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Professional Services
+- 🎵 **Songwriting**: Original compositions and lyrics
+- 🎤 **Vocal Performance**: Lead vocals and harmonies  
+- 🎸 **Production**: Music production and arrangement
+- 🎬 **Performance**: Live concerts and studio recording
 
-### Core Competencies
-- 💻 Software Development
-- 🔧 Open Source Contributions
-- 🧩 Problem Solving
-- 🚀 Clean Code Practices
-- 📈 Continuous Learning
+### Industry Connections
+- **Distribution & Label**: Vydia, Inc.
+- **Management**: Grand Cru Entertainment
+- **PR**: Cosa Nostra USA
+- **Marketing**: Steve Sherr & Em Benoit, Cloverr Digital
+- **Label**: EAM, LLC
+- **Rights**: SPENCER MARCU SONGS (BMI) via PEN Music Group, Inc.
+
+## 🎵 Latest Release
+
+**Official Debut - "Damaged"** 🔥  
+Featuring Ray Wise - Available NOW on all platforms!
+
+### 🎧 Stream Now:
+- **Apple Music** | **Spotify** | **Amazon Music** | **iTunes Store** | **Deezer**  
+- [🎵 Stream on all platforms](https://vyd.co/Damagedallmygoods)
+- [🎬 Watch on Vevo](https://youtu.be/vpRHaEj3iL0)
 
 ## 📊 GitHub Stats
 
@@ -41,11 +50,24 @@ I'm Spencer Marcu, a dedicated software developer who believes in clean code, co
 
 ## 🤝 Connect with Me
 
-I'm always open to discussing new projects, ideas, and opportunities. Let's build something amazing together!
+I'm always open to discussing new music projects, collaborations, and performance opportunities. Let's create something amazing together!
 
-- 💼 **Professional**: Feel free to explore my repositories
-- 🤝 **Collaboration**: Open to new projects and contributions
-- 💬 **Discussion**: Always interested in tech conversations
+### 🎵 Music Platforms:
+- 🎬 **YouTube**: [Spencer Marcu](http://www.youtube.com/spencermarcu)
+- 🎧 **SoundCloud**: [spencermarcu](http://soundcloud.com/spencermarcu)
+
+### 🌐 Social Media:
+- 🐦 **Twitter**: [@_spencermarcu_](https://www.twitter.com/_spencermarcu_)
+- 📘 **Facebook**: [SpencerMarcu](https://www.facebook.com/SpencerMarcu)
+- 🌍 **Website**: [spencermarcu.com](https://www.spencermarcu.com)
+
+### 🎤 Live Shows:
+- 🎫 **Bandsintown**: [spencer-marcu](https://www.bandsintown.com/a/12923-arcana)
+- 🎵 **Songkick**: [spencer-marcu](https://www.songkick.com/artists/10172347-spencer-marcu)
+
+- 💼 **Professional**: Explore my musical journey and projects
+- 🤝 **Collaboration**: Open to music collaborations and performances
+- 💬 **Discussion**: Always interested in music and creative conversations
 
 ## 📈 Activity
 
@@ -53,4 +75,7 @@ I'm always open to discussing new projects, ideas, and opportunities. Let's buil
 
 ---
 
-⭐️ From [Spencer Marcu](https://github.com/spencermarcu-dev) - *Building the future, one commit at a time!*
+⭐️ From [Spencer Marcu](https://github.com/spencermarcu-dev) - *Rock n' Roll Singer, Songwriter, Producer, Artist - Creating music that moves souls!*
+
+---
+*©2021 SPENCER MARCU SONGS (BMI) administered for the world by PEN Music Group, Inc. All Rights Reserved*
